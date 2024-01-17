@@ -22,9 +22,12 @@ Fetch companies and company's trips with data. Making a company tree with calcul
 ```bash
 git clone https://github.com/luka995/webprovise.git
 cd into cloned project
+```
 
-##Usage
+## Usage
+
 
 Example Usage:
-
+```bash
 php8.2 index.php
+```
