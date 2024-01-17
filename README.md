@@ -1,11 +1,5 @@
 
-Certainly! Here's the content in Markdown format:
-
-markdown
-Copy code
-# Your Project Name
-
-[Include a concise and descriptive project title or name.]
+# Webprovise task
 
 ## Table of Contents
 
@@ -13,28 +7,24 @@ Copy code
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
-[Provide a brief overview of your PHP project. What does it do? What problem does it solve?]
+Fetch companies and company's trips with data. Making a company tree with calculated company trip costs.
 
 ## Requirements
 
 - PHP 8.2
-- [Any other dependencies or requirements]
 
 ## Installation
 
 **Example Installation Steps:**
 ```bash
 git clone https://github.com/luka995/webprovise.git
-cd yourproject
+cd into cloned project
 
 ##Usage
 
-
 Example Usage:
 
-php8.2 yourscript.php
+php8.2 index.php
